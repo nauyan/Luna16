@@ -39,3 +39,18 @@ Trained weights can be dowloaded from Google Drive [Link](https://drive.google.c
 mkdir logs/
 ```
 After creating logs directory copy the Luna.zip file downloaded from google drive into the folder and extract it.
+
+## Training 
+Training can be started using Luna.py file. To start training use the following command:
+```
+python Luna.py train --dataset=dataset/prepared_data --weights=imagenet --logs logs/
+```
+Luna.py file contains hyper-parameters of training and testing update them according to your needs.
+
+## Inference
+Inference can be done using Luna_Inference.ipynb file.
+
+If there are any problems feel free to open an issue.
+
+## Author
+`Maintainer` [Syed Nauyan Rashid](https://https://github.com/nauyan) (nauyan@hotmail.com)
