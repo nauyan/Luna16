@@ -24,3 +24,11 @@ cp extract.sh dataset/volumes/
 ./dataset/volumes/download.sh
 ./dataset/volumes/extract.sh
 ```
+
+## Installation 
+Installation can be done using the commands below:
+```
+pip install src/Mask_RCNN/requirements.txt
+python src/Mask_RCNN/setup.py install
+pip install requirements.txt
+```
