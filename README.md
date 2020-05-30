@@ -54,3 +54,11 @@ If there are any problems feel free to open an issue.
 
 ## Author
 `Maintainer` [Syed Nauyan Rashid](https://https://github.com/nauyan) (nauyan@hotmail.com)
+
+## Connect
+
+<div align="left">
+    <p><a href="https://github.com/nauyan"><img alt="GitHub @nauyan" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> </small></p>
+    <p><a href="https://twitter.com/NauyanRashid"><img alt="Twitter @NauyanRashid" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong></small></p>
+    <p><a href="https://www.linkedin.com/in/nauyan/"><img alt="LinkedIn @nauyan" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
+</div>
