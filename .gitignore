@@ -1,0 +1,9 @@
+prepare_data.py
+logs/
+results/
+dataset/
+check_data.py
+prepare_data.py
+__pycache__/
+.ipynb_checkpoints/
+
