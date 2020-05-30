@@ -1,10 +1,14 @@
-## Repository for [LUNA (LUng Nodule Analysis) 2016](https://ieeexplore.ieee.org/document/8880654).
+## Repository for [LUNA (LUng Nodule Analysis) 2016](https://luna16.grand-challenge.org/Home/).
 
 <p align="center">Note: If you're interested in using it, feel free to ⭐️ the repo so we know!</p>
 
 
 ## Dataset
-In total, 888 CT scans are included. The LIDC/IDRI database also contains annotations which were collected during a two-phase annotation process using 4 experienced radiologists. Each radiologist marked lesions they identified as non-nodule, nodule < 3 mm, and nodules >= 3 mm. See this publication for the details of the annotation process. The reference standard of our challenge consists of all nodules >= 3 mm accepted by at least 3 out of 4 radiologists. Annotations that are not included in the reference standard (non-nodules, nodules < 3 mm, and nodules annotated by only 1 or 2 radiologists) are referred as irrelevant findings. The list of irrelevant findings is provided inside the evaluation script (annotations_excluded.csv).
+Lung cancer is the leading cause of cancer-related death worldwide. Screening high risk individuals for lung cancer with low-dose CT scans is now being implemented in the United States and other countries are expected to follow soon. In CT lung cancer screening, many millions of CT scans will have to be analyzed, which is an enormous burden for radiologists. Therefore there is a lot of interest to develop computer algorithms to optimize screening. 
+
+A vital first step in the analysis of lung cancer screening CT scans is the detection of pulmonary nodules, which may or may not represent early stage lung cancer. Many Computer-Aided Detection (CAD) systems have already been proposed for this task. The LUNA16 challenge will focus on a large-scale evaluation of automatic nodule detection algorithms on the LIDC/IDRI data set.
+
+Further details about datase can be seen on the dataset [page](https://luna16.grand-challenge.org/Data/)
 
 To download the dataset follow these steps:
 ```
