@@ -5,8 +5,8 @@ import png
 import os
 import progressbar
 
-train_img = np.load("dataset/volumes_modified/trainImages.npy")
-train_mask = np.load("dataset/volumes_modified/trainMasks.npy")
+train_img = np.load("dataset/volumes_modified/trainImages_1.npy")
+train_mask = np.load("dataset/volumes_modified/trainMasks_1.npy")
 
 count = 0
 for img, mask in progressbar.progressbar(zip(train_img,train_mask)):
