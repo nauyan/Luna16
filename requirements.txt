@@ -96,7 +96,7 @@ python-slugify==4.0.0
 python-utils==2.4.0
 pytz==2020.1
 PyWavelets==1.1.1
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==19.0.1
 qtconsole==4.7.4
 QtPy==1.9.0
