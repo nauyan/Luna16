@@ -119,7 +119,7 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 tensorboard==1.15.0
-tensorflow==1.15.0
+tensorflow==2.5.1
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
 terminado==0.8.3
